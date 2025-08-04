@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--
-**alexderrusse98/alexderrusse98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alexderrusse98/Aspiring web developer passionate about creative solutions.
+From a Pokédex to a Lieferando clone – I turn ideas into functional applications.
+For me, code is more than work; it’s a tool to bring a bit more interactivity to the world.alexderrusse98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
