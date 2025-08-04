@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Aspiring web developer passionate about creative solutions.
+From a Pokédex to a Lieferando clone – I turn ideas into functional applications.
+For me, code is more than work; it’s a tool to bring a bit more interactivity to the world.
 <!--
 **alexderrusse98/Aspiring web developer passionate about creative solutions.
 From a Pokédex to a Lieferando clone – I turn ideas into functional applications.
