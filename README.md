@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/alexderrusse98/alexderrusse98/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/alexderrusse98/alexderrusse98/output/snake-dark.svg">
@@ -10,6 +6,8 @@
   <img alt="GitHub contribution snake" 
        src="https://raw.githubusercontent.com/alexderrusse98/alexderrusse98/output/snake.svg">
 </picture>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
